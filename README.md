@@ -6,8 +6,8 @@
 
 ## GitHub Repositories
 
-- [DaCe Framework](https://github.com/spcl/dace
-- [NPBench](https://github.com/spcl/npbench
+- [DaCe Framework](https://github.com/spcl/dace)
+- [NPBench](https://github.com/spcl/npbench)
 
 ## References
 
